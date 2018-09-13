@@ -41,6 +41,9 @@
                 </tbody>
             </table>
         </div>
+        <div>
+            <%= DateTime.Now.ToLocalTime() %>
+        </div>
     </form>
 </body>
 </html>
