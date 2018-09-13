@@ -16,6 +16,9 @@
             <br />
             <button id="bttn" value="Ok">Run</button>
         </div>
+        <div>
+            <span>Master</span>
+        </div>
     </form>
 </body>
 </html>
