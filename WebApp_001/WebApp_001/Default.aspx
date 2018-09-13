@@ -15,6 +15,31 @@
             <asp:Label runat="server" ID="lbl"></asp:Label>
             <br />
             <button id="bttn" value="Ok">Run</button>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>First
+                        </th>
+                        <th>Second
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>11</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>22</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>33</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     </form>
 </body>
